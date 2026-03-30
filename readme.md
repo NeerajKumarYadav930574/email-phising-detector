@@ -60,8 +60,8 @@ python main.py
 ---
 
 ##Screenshots
-[Image 1](screenshots/)
-[Image 2](screenshots/)
+[Image 1](screenshots/phishing_email_1.png)
+[Image 2](screenshots/phishing_email_1.png)
 
 ## 🧾 Example Output
 **Analysis Result:**
