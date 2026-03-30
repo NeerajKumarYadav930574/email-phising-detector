@@ -59,6 +59,10 @@ python main.py
 
 ---
 
+##Screenshots
+[Image 1](screenshots/)
+[Image 2](screenshots/)
+
 ## 🧾 Example Output
 **Analysis Result:**
 * **Status**: Phishing / Spam Detected (92.5%)
