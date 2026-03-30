@@ -6,7 +6,7 @@ A Machine Learning-based system to detect spam and phishing messages using Natur
 
 ## **Screenshots**
 ![Image 1](screenshots/phishing_email_1.png)
-![Image 2](screenshots/phishing_email_1.png)
+![Image 2](screenshots/phishing_email_2.png)
 
 ##  Features
 *  **Spam / Ham Classification**: Uses Naive Bayes to categorize messages.
