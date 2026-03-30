@@ -117,7 +117,7 @@ pickle.dump(vectorizer, open("vectorizer.pkl", "wb"))
 # -----------------------------
 # Step 9: User Testing
 # -----------------------------
-print("\n----- Test Your Own Message -----")
+print("\n---- Test Your Own Message ---")
 
 while True:
     msg = input("\nEnter message (or type 'exit' to stop): ")
